@@ -1,0 +1,239 @@
+{
+  "main": {
+    "id": "72dca2bfd91b5251",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe148ab7b98f0c29",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "23dbcb0c9033be5e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "039412cb34ecb8fe",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6ef1c792bf8d880",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e6945cbd8105c82d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b9da8587c7849164",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0b9eccf327fc5654",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "910586e5b5c25e44",
+    "type": "split",
+    "children": [
+      {
+        "id": "697e8ac61b9bbcb5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "92f81717b52efbdf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "GGK/Wahlen.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Wahlen"
+            }
+          },
+          {
+            "id": "3f0c21b6f7829a62",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "820b35bafbb5bb3e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "46d9bc8b4126c9aa",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "GGK/Wahlen.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Wahlen"
+            }
+          },
+          {
+            "id": "30e84a260c34275f",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "9c735f2c28458b41",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 314.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "copilot:Open Copilot Chat": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "23dbcb0c9033be5e",
+  "lastOpenFiles": [
+    "README.md",
+    "Untitled.base",
+    "Untitled 5.base",
+    "Untitled 4.base",
+    "Untitled 3.base",
+    "Untitled 2.base",
+    "Untitled 1.base",
+    "Seminarkurs/Die sieben Todsünden des wissenschaftlichen Schreibens.md",
+    "Seminarkurs/Exzerpt zu \"Die Kunst, mit sich allein sein zu können.md",
+    "Seminarkurs/Wie vermeide ich Plagiate.md",
+    "GGK/Begiffsdefinitionen.md",
+    "GGK/Lobbyismus.md",
+    "GGK/Grundgesetz und Demokratie.md",
+    "GGK/Mehrheiten.md",
+    "GGK/Wahlen.md",
+    "GGK/Parteien.md",
+    "GGK/Direkte Demokratie (unmittelbare Demokratie).md",
+    "Englisch/The human Impact/Sustainable Fashion.md",
+    "Englisch/The human Impact/Writing an argumentative text.md",
+    "Englisch/The human Impact/Speech.md",
+    "Englisch/The human Impact/Rampant destruction of forests.md",
+    "Englisch/The human Impact/Presentation observation.md",
+    "Englisch/The human Impact/Northern isles documentation.md",
+    "Englisch/The human Impact/kinds of energy.md",
+    "Englisch/The human Impact/Greenwashing.md",
+    "Englisch/The human Impact/Fracking letter.md",
+    "Englisch/The human Impact/fracking.md",
+    "Englisch/The human Impact/Film broken recycling sham.md",
+    "Physik/5.1 Feldstärke.md",
+    "Ethik/Moralbegründung/Deontologische Ethik.md",
+    "Ethik/Anhänge/Regelutilitarismus Beispiele.jpg",
+    "Ethik/Anhänge/Tugendethik_AB.pdf",
+    "copilot/copilot-conversations/give_feedback@20260114_123719.md",
+    "copilot/copilot-conversations",
+    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot/copilot-custom-prompts",
+    "copilot",
+    "Ethik/Anhänge/MicrosoftTeams-image.png",
+    "Physik/Anhänge/Glimmlampe.png",
+    "Physik/Anhänge/1_3_Feldlinien_Bild.png",
+    "MicrosoftTeams-image.png",
+    "Download.png",
+    "Physik/Anhänge/Download.jpeg"
+  ]
+}

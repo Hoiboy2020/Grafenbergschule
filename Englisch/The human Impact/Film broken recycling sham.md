@@ -1,0 +1,10 @@
+- Global plastic recycling rates are very low, especially for mixed plastics and cheap packaging.​
+- A large share of “recycled” plastic is exported abroad, where it is often openly burned or dumped in unmanaged sites.​
+- Plastic waste heavily pollutes countries in Southeast Asia, where villages and landscapes are overrun by imported trash.​
+- The familiar recycling triangle on packaging is misleading, because many of these plastics are not realistically recyclable.​
+- Oil and chemical companies keep investing in new plastic production despite the well-known waste crisis.
+- Companies use greenwashing terms like “eco-friendly” or “recyclable” that are often not matched by real practices.​
+- Consumers are given a false sense of doing the right thing because of symbols and collection systems.
+- The documentary shows local residents suffering from air pollution, bad odors, and health impacts of waste burning.
+- Experts in the episode call for systemic solutions: less production, more reuse systems, and tougher international rules on waste trade.​
+- Core message: the priority is not “better recycling” but producing and using far less single-use plastic.​

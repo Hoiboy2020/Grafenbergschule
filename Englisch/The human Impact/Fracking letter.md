@@ -1,0 +1,12 @@
+Dear Reporter of the newspaper,
+I would like to write to you because of my concerns about the recent discussions about starting the process of fracking in Schorndorf. 
+
+There are lots of issues that come from fracking. First of all, it causes a huge security risk, especially to children. Schorndorf is home to lots of schools and kindergartens. These institutes and their surroundings need to be safe and cant be put in danger by the fracking process. Lots of children don’t pay enough attention while crossing roads, which creates a greater risk when there is more traffic in the city. Unfortunately, fracking would lead to a higher frequency of big trucks driving through Schorndorf, leading to a high risk of accidents. As a society, we have the duty to protect those who are weak among us, like children. There are certain safety standards that need to be upheld, which wouldn’t be fulfilled if there were these fracking sites.
+
+Secondly Schorndorf has a lot of buildings, which need to be protected. If you take a look at the historic value of Schorndorf by looking at its buildings you can see, that these historic sites need to be protected. Fracking can cause vibrations in the ground, which leads to the damaging of these historic sites. If Schorndorf destroys its past can the people living there really count on those, who lead Schorndorf, forming their future. We need to protect our history in order for us to know our future. 
+
+Last of all the environment is taking a huge hit if we start using fracking. Fracking releases a lot of gases which cause the pollution of air and climate change. Germany has decided to prioritise renewable energy and the city of Schorndorf should follow its lead. There are other methods to generate power like using solar panels, which do not actively produce green house gases. If Schorndorf invests in renewable energy it invests in its future and the future of the whole planet. Some people might say that fracking will be a short-term solution and a transition to renewable energy, but isn’t it better to invest long-term and start using the right technologies right away?
+
+To sum up I think that Schorndorf should not start fracking as it will have a negative impact on the safety of children, possibly lead to the destruction of historic sites in Schorndorf and cost lots of money, which could be invested into renewable ways of generating power. I hope you keep these words in mind while writing your next article about fracking.
+
+Yours sincerely xy

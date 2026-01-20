@@ -1,0 +1,11 @@
+Its nice to see so many people here today, I'm honoured to start off todays event with an informational speech. The topic of todays event is, as you might know, the dangers of beef production by large companies in rainforests. 
+
+The consumption of beef has only risen in the last years and is projected to continue rising. At first sight this might look like a minor inconvenience compared to other problem we (use of we) face in todays society, as companies just need to scale up their production, but the impact this seemingly tiny problem has is enormous. 
+
+Beef production of major companies is responsible for roughly 40% of deforestation. From 2001 to 2015 these companies were responsible for the deforestation over 45 Million hectares of rainforest. These figures are frightening, especially when you consider the current situation of climate change, as deforestation does not only reduce the number of plants converting CO2 into Oxygen, but also set free an inconceivable amount of CO2, which had been trapped for many years. But these companies aren't the only ones who are responsible. As consumers and customers we support the destruction of these natural ecosystems. Should we not do everything to end this fiery hell of deforestation? Aren't we as mankind responsible to keep the earth, our one and only planet, safe (rhetorical question)?
+
+I think there are two steps we need to take to stop the negative influence we have on our rainforests. First of all we need to stop supporting the big producers of meat, that destroy the forest. Instead we can support local Farmers, or companies, that pay attention to the impact their products have on the environment. Secondly we need to start encouraging our friends and families to do the same. 
+
+By following these simple steps we, as many small individuals, can have an incomparably beneficial effect on our planet. Isn't that something we should strive to do? Don't we all have possibilities to help the environment? Our Organisation is offering guidance to help you find companies, which follow a moral code suitable for the future. You can visit our Website for more informations. 
+
+Thank you for your attention and have fun at todays event. 

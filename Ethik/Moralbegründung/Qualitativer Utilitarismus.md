@@ -1,0 +1,2 @@
+[[Qualitativer Utilitarismus]]
+Bei der Bestimmung des höchsten Glücks muss zwischen den geistigen Freuden und körperlichen Freuden differenziert werden. Erstere sind vorzuziehen, da sie länger andauern, d.h. Es ist besser ein unzufriedener Mensch zu sein als ein zufriedenes Schwein.
