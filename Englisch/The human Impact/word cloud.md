@@ -1,5 +1,5 @@
 + to file a lawsuit
-+ to get involved with an organization
++ to get involved with an organisation
 + to go on strike
 + to donate money to environmental charities
 + to block roads
