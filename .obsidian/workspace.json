@@ -11,10 +11,14 @@
             "id": "23dbcb0c9033be5e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Physik/5.1 Feldstärke.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "5.1 Feldstärke"
             }
           }
         ]
@@ -109,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Physik/5.1 Feldstärke.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 5.1 Feldstärke"
             }
           },
           {
@@ -192,6 +197,8 @@
   },
   "active": "23dbcb0c9033be5e",
   "lastOpenFiles": [
+    "Physik/Anhänge/5_1_Feldstaerke.pdf",
+    "Physik/5.1 Feldstärke.md",
     "README.md",
     "Untitled.base",
     "Untitled 5.base",
@@ -220,15 +227,12 @@
     "Englisch/The human Impact/Fracking letter.md",
     "Englisch/The human Impact/fracking.md",
     "Englisch/The human Impact/Film broken recycling sham.md",
-    "Physik/5.1 Feldstärke.md",
     "Ethik/Moralbegründung/Deontologische Ethik.md",
     "Ethik/Anhänge/Regelutilitarismus Beispiele.jpg",
     "Ethik/Anhänge/Tugendethik_AB.pdf",
     "copilot/copilot-conversations/give_feedback@20260114_123719.md",
     "copilot/copilot-conversations",
-    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
     "copilot/copilot-custom-prompts",
-    "copilot",
     "Ethik/Anhänge/MicrosoftTeams-image.png",
     "Physik/Anhänge/Glimmlampe.png",
     "Physik/Anhänge/1_3_Feldlinien_Bild.png",
