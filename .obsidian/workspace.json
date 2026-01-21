@@ -11,12 +11,14 @@
             "id": "23dbcb0c9033be5e",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Physik/Anhänge/Energieumwandlung im E-Feld.png"
+                "file": "Physik/5.1 Feldstärke.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Energieumwandlung im E-Feld"
+              "icon": "lucide-file",
+              "title": "5.1 Feldstärke"
             }
           }
         ]
@@ -111,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physik/Anhänge/Energieumwandlung im E-Feld.png",
+                "file": "Physik/5.1 Feldstärke.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Energieumwandlung im E-Feld"
+              "title": "Outgoing links from 5.1 Feldstärke"
             }
           },
           {
@@ -195,8 +197,8 @@
   },
   "active": "23dbcb0c9033be5e",
   "lastOpenFiles": [
-    "Physik/5.1 Feldstärke.md",
     "Physik/Anhänge/Energieumwandlung im E-Feld.png",
+    "Physik/5.1 Feldstärke.md",
     "Physik/Anhänge/Blank diagram (2).png",
     "Physik/Anhänge/Blank diagram (1).png",
     "Physik/Anhänge/Blank diagram.png",
