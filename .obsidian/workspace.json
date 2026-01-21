@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physik/5.1 Feldstärke.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5.1 Feldstärke"
+              "title": "README"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physik/5.1 Feldstärke.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 5.1 Feldstärke"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -197,8 +197,8 @@
   },
   "active": "23dbcb0c9033be5e",
   "lastOpenFiles": [
-    "Physik/Anhänge/Energieumwandlung im E-Feld.png",
     "Physik/5.1 Feldstärke.md",
+    "Physik/Anhänge/Energieumwandlung im E-Feld.png",
     "Physik/Anhänge/Blank diagram (2).png",
     "Physik/Anhänge/Blank diagram (1).png",
     "Physik/Anhänge/Blank diagram.png",
