@@ -47,4 +47,6 @@ Die gewählten Abgeordneten einer Partei organisieren sich im Bundestag in der F
 + Volkssouveränität
 + Gewaltenteilung und Gewaltenverschränkung
 + repräsentatives System
-+ 
++ Grund- und Menschenrechte
++ Rechtsstaatlichkeit
++ Föderalismus
