@@ -36,3 +36,7 @@ Die gewählten Abgeordneten einer Partei organisieren sich im Bundestag in der F
 + Ausnahme: Wenn eine Partei mindestens 3 Direktmandate in den Wahlkreisen gewinnt, darf sie ebenfalls in den Bundestag einziehen
 + Gesamtgröße des Bundestags: 630 Abgeordnete 
 	(Es gibt keine Überhangs- und Ausgleichsmandate)
++ Wahl des Bundeskanzlers:
+	Der Bundestag wählt auf Vorschlag des Bundespräsidenten den Bundeskanzler (Art. 63 GG). 
++ Bundesminister werden auf Vorschlag des Bundeskanzlers vom Bundespräsidenten ernannt (Art. 64 GG)
++ 
