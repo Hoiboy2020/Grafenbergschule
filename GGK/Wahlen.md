@@ -43,4 +43,8 @@ Die gewählten Abgeordneten einer Partei organisieren sich im Bundestag in der F
 	Der Bundestag spricht dem Bundeskanzler das Misstrauen dadurch aus, dass er mit der Mehrheit seiner Mitglieder einen neuen Kanzler wählt (konstruktives Misstrauensvotum)
 + Bundeskanzler kann die Vertrauensfrage stellen:
 	Spricht die Mehrheit des Bundestags ihm nicht das Vertrauen aus, kann der Bundespräsident auf Vorschlag des Bundeskanzlers den Bundestag auflösen
+# Grundprinzipien der freiheitlich demokratischen Grundordnung der BRD
++ Volkssouveränität
++ Gewaltenteilung und Gewaltenverschränkung
++ repräsentatives System
 + 
