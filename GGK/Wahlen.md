@@ -29,5 +29,5 @@ Die gewählten Abgeordneten einer Partei organisieren sich im Bundestag in der F
 	+ Erststimme: Kandidat aus Wahlkreis (einfaches Mehrheitswahlrecht)
 	+ Zweitstimme: Landesliste einer Partei (Verhältnis Wahlrecht)
 	= personalisierte Verhältniswahl
-Exkurs: [[Mehrheiten]]
+(Exkurs: [[Mehrheiten]])
 + 299 Wahlkreise

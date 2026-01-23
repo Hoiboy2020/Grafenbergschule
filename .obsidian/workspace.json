@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "23dbcb0c9033be5e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
             "id": "3664c0732c6127cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Englisch/The human Impact/word cloud.md",
+                "file": "GGK/Wahlen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "word cloud"
+              "title": "Wahlen"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -211,6 +196,8 @@
   },
   "active": "3664c0732c6127cc",
   "lastOpenFiles": [
+    "GGK/Parteien.md",
+    "GGK/Wahlen.md",
     "Englisch/The human Impact/word cloud.md",
     "Physik/5.1 Feldstärke.md",
     "Physik/Anhänge/Energieumwandlung im E-Feld.png",
@@ -232,8 +219,6 @@
     "GGK/Lobbyismus.md",
     "GGK/Grundgesetz und Demokratie.md",
     "GGK/Mehrheiten.md",
-    "GGK/Wahlen.md",
-    "GGK/Parteien.md",
     "GGK/Direkte Demokratie (unmittelbare Demokratie).md",
     "Englisch/The human Impact/Sustainable Fashion.md",
     "Englisch/The human Impact/Writing an argumentative text.md",
