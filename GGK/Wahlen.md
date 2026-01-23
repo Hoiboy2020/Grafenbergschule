@@ -39,4 +39,8 @@ Die gewählten Abgeordneten einer Partei organisieren sich im Bundestag in der F
 + Wahl des Bundeskanzlers:
 	Der Bundestag wählt auf Vorschlag des Bundespräsidenten den Bundeskanzler (Art. 63 GG). 
 + Bundesminister werden auf Vorschlag des Bundeskanzlers vom Bundespräsidenten ernannt (Art. 64 GG)
++ Misstrauensvotum:
+	Der Bundestag spricht dem Bundeskanzler das Misstrauen dadurch aus, dass er mit der Mehrheit seiner Mitglieder einen neuen Kanzler wählt (konstruktives Misstrauensvotum)
++ Bundeskanzler kann die Vertrauensfrage stellen:
+	Spricht die Mehrheit des Bundestags ihm nicht das Vertrauen aus, kann der Bundespräsident auf Vorschlag des Bundeskanzlers den Bundestag auflösen
 + 
