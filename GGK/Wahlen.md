@@ -31,3 +31,6 @@ Die gewählten Abgeordneten einer Partei organisieren sich im Bundestag in der F
 	= personalisierte Verhältniswahl
 (Exkurs: [[Mehrheiten]])
 + 299 Wahlkreise
++ 5% Sperrklausel: 
+	+ Eine Partei muss mindestens 5% der Zweitstimmen erhalten, um in den Bundestag einziehen zu dürfen
++ Ausnahme
