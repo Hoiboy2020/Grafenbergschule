@@ -32,7 +32,7 @@ Die gewählten Abgeordneten einer Partei organisieren sich im Bundestag in der F
 (Exkurs: [[Mehrheiten]])
 + 299 Wahlkreise
 + 5% Sperrklausel: 
-	+ Eine Partei muss mindestens 5% der Zweitstimmen erhalten, um in den Bundestag einziehen zu dürfen
+	Eine Partei muss mindestens 5% der Zweitstimmen erhalten, um in den Bundestag einziehen zu dürfen
 + Ausnahme: Wenn eine Partei mindestens 3 Direktmandate in den Wahlkreisen gewinnt, darf sie ebenfalls in den Bundestag einziehen
 + Gesamtgröße des Bundestags: 630 Abgeordnete 
 	(Es gibt keine Überhangs- und Ausgleichsmandate)
