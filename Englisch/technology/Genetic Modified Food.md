@@ -9,12 +9,13 @@
 ### modern methods
 + more accurate and predictable process than the traditional one, as certain genes are implanted and there aren't as many genes being exchanged
 ### dangers
-+ long term aren't fully known
++ long term dangers aren't fully known
 + possible evolution of insects because of new dangers they face
 + 
 ### benefits
 + plants are more resistant to pesticides
++ unfavourable 
 + problems that come with the unpredictability of traditional plants are nullified
-+ higher production
-+ short term solution for world hunger if food is properly distributed
++ higher production of food
++ possible short term solution for world hunger if food is properly distributed
 + 
