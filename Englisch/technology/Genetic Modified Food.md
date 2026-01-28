@@ -5,7 +5,7 @@
 + control of GMOs isn't easy
 # p.52 ex.4
 ### traditional methods
-+ altering of the genetic make-up of plants by selectivly planting and cross breeding them
++ altering of the genetic make-up of plants by selectively planting and cross breeding them
 ### modern methods
 + more accurate and predictable process than the traditional one
 ### dangers
@@ -16,5 +16,5 @@
 + plants are more resistant to pesticides
 + problems that come with the unpredictability of traditional plants are nullified
 + higher production
-+ short term solution for world hunger if food is prope
++ short term solution for world hunger if food is properly distributed
 + 
