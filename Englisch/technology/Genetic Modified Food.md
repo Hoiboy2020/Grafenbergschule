@@ -11,11 +11,9 @@
 ### dangers
 + long term dangers aren't fully known
 + possible evolution of insects because of new dangers they face
-+ 
 ### benefits
 + plants are more resistant to pesticides
-+ unfavourable 
++ unfavourable traits can be removed much quicker 
 + problems that come with the unpredictability of traditional plants are nullified
 + higher production of food
 + possible short term solution for world hunger if food is properly distributed
-+ 
