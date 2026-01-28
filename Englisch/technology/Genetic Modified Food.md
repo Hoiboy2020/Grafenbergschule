@@ -7,6 +7,8 @@
 ### traditional methods
 + altering of the genetic make-up of plants by selectivly planting and cross breeding them
 ### modern methods
-+ more accurate and predictable 
++ more accurate and predictable process than the traditional one
 ### dangers
 ### benefits
++ plants are more resistant to pesticides
++ 
