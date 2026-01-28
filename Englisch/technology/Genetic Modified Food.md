@@ -9,7 +9,9 @@
 ### modern methods
 + more accurate and predictable process than the traditional one
 ### dangers
++ aren't fully known
++ possible evolution of insects because of 
 ### benefits
 + plants are more resistant to pesticides
 + problems that come with the unpredictability of traditional plants are nullified
-+ 
++ higher production
