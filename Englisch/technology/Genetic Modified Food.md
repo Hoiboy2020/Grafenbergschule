@@ -11,4 +11,5 @@
 ### dangers
 ### benefits
 + plants are more resistant to pesticides
++ problems that come with the unpredictability of traditional plants are nullified
 + 
