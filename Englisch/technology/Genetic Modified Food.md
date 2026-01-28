@@ -5,6 +5,7 @@
 + control of GMOs isn't easy
 # p.52 ex.4
 ### traditional methods
++ altering of genetic make-up of plants by selectivly planting
 ### modern methods
 ### dangers
 ### benefits
