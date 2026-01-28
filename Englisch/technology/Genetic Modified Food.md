@@ -7,9 +7,9 @@
 ### traditional methods
 + altering of the genetic make-up of plants by selectively planting and cross breeding them
 ### modern methods
-+ more accurate and predictable process than the traditional one
++ more accurate and predictable process than the traditional one, as certain genes are implanted and there aren't as many genes being exchanged
 ### dangers
-+ aren't fully known
++ long term aren't fully known
 + possible evolution of insects because of new dangers they face
 + 
 ### benefits
