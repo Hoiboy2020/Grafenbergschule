@@ -10,8 +10,11 @@
 + more accurate and predictable process than the traditional one
 ### dangers
 + aren't fully known
-+ possible evolution of insects because of 
++ possible evolution of insects because of new dangers they face
++ 
 ### benefits
 + plants are more resistant to pesticides
 + problems that come with the unpredictability of traditional plants are nullified
 + higher production
++ short term solution for world hunger if food is prope
++ 
