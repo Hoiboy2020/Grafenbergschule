@@ -5,11 +5,10 @@ Die Bedeutung der Kleiderwahl in der modernen Arbeitswelt und die Problematik ei
 
 ## **Textsorte:**
 
-Zeitungsartikel / kommentierender Sachtext (Kolumne) aus der _Süddeutschen Zeitung_.
-
+Mischform aus Essay und Kommentar
 
 ### Formulierung der These, dass in der Arbeitswelt ein kollektives „Down-Dressing“ stattfindet
-
+ 
 ### Beleg durch Beobachtungen aus dem Arbeitsleben
 
 → Beispiele: Krawatte kaum noch üblich, Sneakers statt Lederschuhe, Homeoffice in Schlafanzug (vgl. Z. 2–8).
