@@ -38,15 +38,15 @@ Zeitungsartikel / kommentierender Sachtext (Kolumne) aus der _Süddeutschen Zeit
 
 → „Kleidung ist immer auch eine Sprache“ (Z. 73–74).
 
-### Erläuterung und Schlussfolgerung: Kleidung habe etwas mit Respekt zu tun
+### Erläuterung und Schlussfolgerung: Kleidung habe etwas mit Respekt zu tun
 
 → Zu lässige Kleidung signalisiere mangelnde Wertschätzung (vgl. Z. 75–78).
 
-### Beispiel durch Verweis auf sorgfältig ausgewählte Kleidung bei Beerdigungen
+### Beispiel durch Verweis auf sorgfältig ausgewählte Kleidung bei Beerdigungen
 
 → „… weshalb man zu einer Beerdigung eher nicht im bunten Flatterkleid erscheint“ (Z. 77–78).
 
-### Zwischenfazit: große Bedeutung der Kongruenz von Kleiderwahl und eigener Person
+### Zwischenfazit: große Bedeutung der Kongruenz von Kleiderwahl und eigener Person
 
 → Lockerer Stil sei akzeptabel, wenn er „authentisch“ ist (Z. 80–82).
 
