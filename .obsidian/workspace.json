@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deutsch/Wie du wieder aussiehst.md",
+                "file": "Englisch/enviroment/word cloud.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wie du wieder aussiehst"
+              "title": "word cloud"
             }
           }
         ]
@@ -196,8 +196,8 @@
   },
   "active": "3664c0732c6127cc",
   "lastOpenFiles": [
-    "Englisch/technology/Genetic Modified Food.md",
     "Deutsch/Wie du wieder aussiehst.md",
+    "Englisch/technology/Genetic Modified Food.md",
     "Englisch/enviroment/Writing an argumentative text.md",
     "Englisch/technology/p. 50 ex. 1.md",
     "GGK/Wahlen.md",

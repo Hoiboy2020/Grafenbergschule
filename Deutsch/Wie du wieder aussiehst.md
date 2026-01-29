@@ -8,13 +8,13 @@ Die Bedeutung der Kleiderwahl in der modernen Arbeitswelt und die Problematik ei
 Zeitungsartikel / kommentierender Sachtext (Kolumne) aus der _Süddeutschen Zeitung_.
 
 
-### Formulierung der These, dass in der Arbeitswelt ein kollektives „Down-Dressing“ stattfindet
+### Formulierung der These, dass in der Arbeitswelt ein kollektives „Down-Dressing“ stattfindet
 
 ### Beleg durch Beobachtungen aus dem Arbeitsleben
 
 → Beispiele: Krawatte kaum noch üblich, Sneakers statt Lederschuhe, Homeoffice in Schlafanzug (vgl. Z. 2–8).
 
-### Problematisierung des Widerspruchs zwischen lässiger Kleidung und weiterhin bestehenden Hierarchien
+### Problematisierung des Widerspruchs zwischen lässiger Kleidung und weiterhin bestehenden Hierarchien
 
 → Trotz Hoodie und Duzen bleiben Hierarchien bestehen: „ranghöher sticht rangnieder“ (Z. 31–33).
 
@@ -26,7 +26,7 @@ Zeitungsartikel / kommentierender Sachtext (Kolumne) aus der _Süddeutschen Zeit
 
 → Trotz Freiheit entsteht ein neuer Einheitslook, z. B. G‑7‑Foto oder Start-up‑Uniform (vgl. Z. 54–66).
 
-### Berufung auf Aussagen der Modedesignerin und Imageberaterin Katharina Starlay
+### Berufung auf Aussagen der Modedesignerin und Imageberaterin Katharina Starlay
 
 → Starlay sieht Orientierungslosigkeit als Motor für Fast Fashion (vgl. Z. 67–70).
 
@@ -62,7 +62,7 @@ Zeitungsartikel / kommentierender Sachtext (Kolumne) aus der _Süddeutschen Zeit
 
 → Strenge ästhetische Vorgaben bei Abibällen (Z. 94–96) und Trachtenpflicht auf dem Oktoberfest (Z. 100–105).
 
-### Pointierter Abschluss: Feststellung eines nach wie vor vorhandenen Dresscodes
+### Pointierter Abschluss: Feststellung eines nach wie vor vorhandenen Dresscodes
 
 → „Der Dresscode ist tot? Lang lebe der Dresscode.“ (Z. 105).
 
