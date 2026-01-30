@@ -1,5 +1,6 @@
 
-|      | Legislative                                | Exekutive                                                    | Judikative                                    |
-| ---- | :----------------------------------------- | :----------------------------------------------------------- | :-------------------------------------------- |
-| Bund | gesetzgebend<br><br>Bundestag<br>Bundesrat | ausführend<br><br>Bundesregierung<br>bundeseigene Verwaltung | Recht sprechend<br><br>Oberste Bundesgerichte |
-|      |                                            |                                                              |                                               |
+|        | Legislative            | Exekutive                                 | Judikative             |
+| ------ | :--------------------- | :---------------------------------------- | :--------------------- |
+|        | gesetzgebend<br>       | ausführend                                | Recht sprechend        |
+| Bund   | Bundestag<br>Bundesrat | undesregierung<br>bundeseigene Verwaltung | Oberste Bundesgerichte |
+| Länder |                        |                                           |                        |
