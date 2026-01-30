@@ -55,3 +55,4 @@ Die gewählten Abgeordneten einer Partei organisieren sich im Bundestag in der F
 + Bundestag
 + Bundesrat
 + Bundesregierung
++ Bundesverfassungsgericht (und oberste Bundesgerichte)
