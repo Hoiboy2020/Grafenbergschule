@@ -16,7 +16,8 @@ A: Das Geld ist sein Eigentum
 B: Glücklicher Zufall
 ## Handlungsalternativen
 
-| Interessen der Handlungsalternative  |     |     |
-| :----------------------------------- | :-- | :-- |
-| Maximen                              |     |     |
-| Kriterien für moralische Richtigkeit |     |     |
+| Handlung                             | Nehmen des Scheins | Zurückgeben des Scheins |
+| :----------------------------------- | :----------------- | :---------------------- |
+| Interessen der Handlungsalternative  | B                  | A                       |
+| Maximen                              |                    | nicht stehlen           |
+| Kriterien für moralische Richtigkeit |                    |                         |
