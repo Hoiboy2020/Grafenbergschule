@@ -9,3 +9,14 @@
 + Maximen sind Grundhaltungen, die verschiedene Absichten einer Person zusammenfassen
 + vereinfachen die Beurteilung von konkreten Handlungssituationen innerhalb eines Lebensbereiches z.B. wenn mein Vorsatz Aufrichtigkeit ist, dann kann ich schneller in jeder Situation mich dafür entscheiden ehrlich zu handeln
 + sind überschaubarer als jede einzelne Handlungsentscheidung
+# Beispiel
+[[2026_01_30 08_35 Office Lens.pdf]]
+## Mögliche Rechtfertigung der Interessen:
+A: Das Geld ist sein Eigentum
+B: Glücklicher Zufall
+## Handlungsalternativen
+
+| Interessen der Handlungsalternative  |     |     |
+| :----------------------------------- | :-- | :-- |
+| Maximen                              |     |     |
+| Kriterien für moralische Richtigkeit |     |     |
