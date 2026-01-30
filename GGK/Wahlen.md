@@ -50,3 +50,6 @@ Die gewählten Abgeordneten einer Partei organisieren sich im Bundestag in der F
 + Grund- und Menschenrechte
 + Rechtsstaatlichkeit
 + Föderalismus
+# Verfassungsorgane der BRD
++ Bundespräsident
++ Bundestag
