@@ -1,4 +1,4 @@
 
-| Legislative | Exekutive | Judikative |
-| :---------- | :-------- | :--------- |
-|             |           |            |
+| Legislative  | Exekutive | Judikative |
+| :----------- | :-------- | :--------- |
+| gesetzgebend |           |            |
