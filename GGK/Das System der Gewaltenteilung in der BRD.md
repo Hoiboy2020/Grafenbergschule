@@ -1,4 +1,4 @@
 
-| Legislative  | Exekutive  | Judikative      |
-| :----------- | :--------- | :-------------- |
-| gesetzgebend | ausführend | Recht sprechend |
+| Legislative                                | Exekutive                         | Judikative      |
+| :----------------------------------------- | :-------------------------------- | :-------------- |
+| gesetzgebend<br><br>Bundestag<br>Bundesrat | ausführend<br><br>Bundesregierung | Recht sprechend |
